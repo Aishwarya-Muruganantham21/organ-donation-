@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+vite_err.txt
+vite_err2.txt
+vite_err2_utf8.txt
+vite_err_utf8.txt
+build_err.txt
+lint.txt
